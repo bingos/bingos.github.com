@@ -1,0 +1,14 @@
+CPAN Testing is an effort to set up a Quality Assurance (QA) team for CPAN modules, comprised
+of a globally diverse group of individuals, maintaining a diverse collection of operating environments.
+
+This talk aims to illustrate the processes and mechanisms associated with CPAN smoke testing,
+as experienced by a veteran CPAN Tester, including the following topics:
+
+    * What is CPAN Testing?
+    * CPAN Testing Community
+    * How CPAN Testing Works
+    * The tools of CPAN Testing
+    * The problems and dangers of CPAN Testing
+    * Running automated CPAN Testing
+    * What is on the horizon
+
